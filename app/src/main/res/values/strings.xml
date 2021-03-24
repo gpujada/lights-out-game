@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lights Out</string>
+    <string name="intro">App by Gabriella Pujada for ITEC 4550, Fall 2020</string>
+    <string name="new_game">New Game</string>
+    <string name="help_button">Help</string>
+    <string name="help_desc">This page would have help features...</string>
+    <string name="color_button">Change Color</string>
+    <string name="choose_color">Choose a color:</string>
+</resources>
